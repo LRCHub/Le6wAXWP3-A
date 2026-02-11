@@ -1,0 +1,288 @@
+{
+  "version": 1,
+  "base_track": "Sunday Driver",
+  "base_artist": "TOMORROW X TOGETHER",
+  "createdAt": "2026-02-11T19:19:09.401929Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sunday Driver",
+      "artist": "True Widow",
+      "has_synced": true,
+      "path": "select/01_Sunday_Driver_True_Widow.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sunday Driver",
+      "artist": "Blue County",
+      "has_synced": false,
+      "path": "select/02_Sunday_Driver_Blue_County.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sunday Driver",
+      "artist": "The Raconteurs",
+      "has_synced": true,
+      "path": "select/03_Sunday_Driver_The_Raconteurs.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sunday Driver",
+      "artist": "The Limp Twins",
+      "has_synced": false,
+      "path": "select/04_Sunday_Driver_The_Limp_Twins.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sunday Driver",
+      "artist": "Kyle Craft",
+      "has_synced": false,
+      "path": "select/05_Sunday_Driver_Kyle_Craft.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sunday Driver",
+      "artist": "Raconteurs (the)",
+      "has_synced": true,
+      "path": "select/06_Sunday_Driver_Raconteurs_(the).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sunday Driver",
+      "artist": "The Raconteurs",
+      "has_synced": true,
+      "path": "select/07_Sunday_Driver_The_Raconteurs.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sunday Driver",
+      "artist": "The Raconteurs",
+      "has_synced": true,
+      "path": "select/08_Sunday_Driver_The_Raconteurs.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Jack White on Sunday Driver",
+      "artist": "The Raconteurs",
+      "has_synced": false,
+      "path": "select/09_Jack_White_on_Sunday_Driver_The_Raconteurs.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Jack White on Sunday Driver",
+      "artist": "Raconteurs, The",
+      "has_synced": false,
+      "path": "select/10_Jack_White_on_Sunday_Driver_Raconteurs,_The.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Sunday Driver Yea",
+      "artist": "Gyllene Tider",
+      "has_synced": true,
+      "path": "select/11_Sunday_Driver_Yea_Gyllene_Tider.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Sunday Driver",
+      "artist": "The Corries",
+      "has_synced": true,
+      "path": "select/12_Sunday_Driver_The_Corries.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Sunday Driver",
+      "artist": "DaizyStripper",
+      "has_synced": false,
+      "path": "select/13_Sunday_Driver_DaizyStripper.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Sunday Driver",
+      "artist": "Buck 65",
+      "has_synced": false,
+      "path": "select/14_Sunday_Driver_Buck_65.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Sunday Driver",
+      "artist": "The Gufs",
+      "has_synced": false,
+      "path": "select/15_Sunday_Driver_The_Gufs.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Sunday Driver",
+      "artist": "Corries",
+      "has_synced": true,
+      "path": "select/16_Sunday_Driver_Corries.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Raining On Sunday",
+      "artist": "Keith Urban",
+      "has_synced": true,
+      "path": "select/17_Raining_On_Sunday_Keith_Urban.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Sunday In the South",
+      "artist": "Shenandoah",
+      "has_synced": true,
+      "path": "select/18_Sunday_In_the_South_Shenandoah.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Sunday In The South (Album Version)",
+      "artist": "Shenandoah",
+      "has_synced": false,
+      "path": "select/19_Sunday_In_The_South_(Album_Version)_Shenandoah.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Sunday Mornin' Comin' Down",
+      "artist": "Kris Kristofferson",
+      "has_synced": false,
+      "path": "select/20_Sunday_Mornin'_Comin'_Down_Kris_Kristofferson.txt"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Sunday Mornin' Comin' Down - Ralph Emery's Country Legends Series: Vol 1 Album Version",
+      "artist": "Kris Kristofferson",
+      "has_synced": true,
+      "path": "select/21_Sunday_Mornin'_Comin'_Down_-_Ralph_Emery's_Country_Legends_Series__Vol_1_Album_V_Kris_Kristofferson.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Sunday Mornin' Comin' Down (Album Version)",
+      "artist": "Kris Kristofferson",
+      "has_synced": true,
+      "path": "select/22_Sunday_Mornin'_Comin'_Down_(Album_Version)_Kris_Kristofferson.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Sunday Mornin' Comin' Down - Live",
+      "artist": "Johnny Cash",
+      "has_synced": false,
+      "path": "select/23_Sunday_Mornin'_Comin'_Down_-_Live_Johnny_Cash.txt"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Sunday Morning",
+      "artist": "Parmalee",
+      "has_synced": true,
+      "path": "select/24_Sunday_Morning_Parmalee.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Sunday Morning Coming Down - Live",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/25_Sunday_Morning_Coming_Down_-_Live_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Sunday Morning Coming Down (Album Version)",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/26_Sunday_Morning_Coming_Down_(Album_Version)_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Sunday Mornin’ Comin’ Down - Live",
+      "artist": "Kris Kristofferson",
+      "has_synced": true,
+      "path": "select/27_Sunday_Mornin’_Comin’_Down_-_Live_Kris_Kristofferson.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Sunday Mornin’ Comin’ Down (Live At Gilley's)",
+      "artist": "Kris Kristofferson",
+      "has_synced": false,
+      "path": "select/28_Sunday_Mornin’_Comin’_Down_(Live_At_Gilley's)_Kris_Kristofferson.txt"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "That's What I Love About Sunday",
+      "artist": "Craig Morgan",
+      "has_synced": true,
+      "path": "select/29_That's_What_I_Love_About_Sunday_Craig_Morgan.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Sunday Morning",
+      "artist": "The Velvet Underground",
+      "has_synced": true,
+      "path": "select/30_Sunday_Morning_The_Velvet_Underground.lrc"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Sunday Morning",
+      "artist": "The Velvet Underground & Nico",
+      "has_synced": true,
+      "path": "select/31_Sunday_Morning_The_Velvet_Underground_&_Nico.lrc"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "Sunday Morning",
+      "artist": "Maroon 5",
+      "has_synced": true,
+      "path": "select/32_Sunday_Morning_Maroon_5.lrc"
+    },
+    {
+      "id": "lrclib_33",
+      "source": "lrclib",
+      "title": "Lazing On a Sunday Afternoon",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/33_Lazing_On_a_Sunday_Afternoon_Queen.lrc"
+    },
+    {
+      "id": "lrclib_34",
+      "source": "lrclib",
+      "title": "Sunday Girl",
+      "artist": "Blondie",
+      "has_synced": false,
+      "path": "select/34_Sunday_Girl_Blondie.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sunday Driver",
+      "artist": "TOMORROW X TOGETHER",
+      "has_synced": false,
+      "path": "select/pl_01_Sunday_Driver_TOMORROW_X_TOGETHER.txt"
+    }
+  ]
+}
